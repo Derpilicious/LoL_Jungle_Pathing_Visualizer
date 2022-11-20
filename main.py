@@ -2,7 +2,7 @@ from riotwatcher import LolWatcher
 import pandas as pd
 import matplotlib.pyplot as plt
 from requests.exceptions import HTTPError
-apiKey = 'RGAPI-4e3ccff0-0013-4c96-bea0-22c5fabc9e75'
+apiKey = 'Insert your Riot API key here.'
 watcher = LolWatcher(apiKey)
 myRegion = 'na1'
 username = ('Quantum')
